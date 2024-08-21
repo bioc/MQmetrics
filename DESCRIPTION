@@ -1,7 +1,7 @@
 Package: MQmetrics
 Type: Package
 Title: Quality Control of Protemics Data
-Version: 1.13.0
+Version: 1.13.1
 Authors@R: c(person(given = "Alvaro", family = "Sanchez-Villalba",
                     email = "sanchezvillalba.alvaro@gmail.com",
                     role = c("aut", "cre")),
@@ -55,3 +55,4 @@ Suggests:
     testthat (>= 3.0.0),
     BiocStyle
 Config/testthat/edition: 3
+PackageStatus: Deprecated
